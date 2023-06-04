@@ -1,0 +1,11 @@
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.Form1.resources
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.Properties.Resources.resources
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.csproj.GenerateResource.cache
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\bin\Debug\KrestikNolik.exe.config
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\bin\Debug\KrestikNolik.exe
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\bin\Debug\KrestikNolik.pdb
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.exe
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.pdb
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.csproj.AssemblyReference.cache
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.csproj.SuggestedBindingRedirects.cache
+C:\Users\EM\source\repos\KrestikNolik\KrestikNolik\obj\Debug\KrestikNolik.csproj.CoreCompileInputs.cache
